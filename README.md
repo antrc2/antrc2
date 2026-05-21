@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h3>👋 Xin chào! Mình là Nguyễn Ngọc An An (antrc2)</h3>
+  <h3>👋 Xin chào! Mình là Nguyễn Ngọc An (antrc2)</h3>
   <p align="center">
     <strong>AI Engineer | Computer Vision & NLP Enthusiast</strong>
   </p>
